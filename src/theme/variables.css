@@ -233,4 +233,10 @@ http://ionicframework.com/docs/theming/ */
 
     --ion-card-background: #1e1e1e;
   }
+  .target{
+    margin: auto;
+    background: royalblue;
+    width: 200px;
+    height: 200px;
+  }
 }
